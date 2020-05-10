@@ -248,12 +248,3 @@ def users():
     return render_template('users.html',title ='List of Users',userList = userList)
 
 
-@app.route("/resetpassword")
-@login_required
-def reset_password():
-    ''' This is the reset password function.
-    
-        Returns:
-            This will redirect the user to the reset password page.
-    '''
-    return render_template('resetPassword.html', title='Reset Password')  
