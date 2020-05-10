@@ -1,3 +1,7 @@
+# travis-ci
+
+[![Build Status](https://travis-ci.com/cmpe131-spring2020/Team7.svg?token=ce4M9mP9GgpQNtW8LvC1&branch=master)](https://travis-ci.com/cmpe131-spring2020/Team7)
+
 # About Schedule-Master
 
 https://cmpe131-team7.herokuapp.com/home
