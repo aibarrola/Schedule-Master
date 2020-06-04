@@ -44,3 +44,11 @@ Thumbs.db
 *.orig
 __pycache__/
 *.code-workspace
+*.mo
+*.po
+/site-packages
+pyvenv.cfg
+bin/
+lib/
+templates/
+pyvenv.cfg

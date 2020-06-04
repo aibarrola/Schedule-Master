@@ -1,3 +1,7 @@
+# travis-ci
+
+[![Build Status](https://travis-ci.com/cmpe131-spring2020/Team7.svg?token=ce4M9mP9GgpQNtW8LvC1&branch=master)](https://travis-ci.com/cmpe131-spring2020/Team7)
+
 # About Schedule-Master
 
 https://cmpe131-team7.herokuapp.com/home
@@ -67,4 +71,12 @@ python3 run.py
 
 ## Navigating our website
 
-### To be continued...
+On the homepage:
+
+Follow the instructions on the left card if you are a guest and want to book appointments
+  * Click on a person from a list of creators, and click a day on the calendar as well as the time
+  * Enter your name and why you want to this meeting and submit!
+
+Follow the instructions on the right card if you are a creator and you want to create events
+  * In your settings, choose your availability times and meeting durations and click update settings and you are good to go!
+
